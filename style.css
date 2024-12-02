@@ -1,0 +1,56 @@
+header{
+    background-color: #001F3F;
+}
+.nav-item a{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+#boton-perfil{
+    background-color: #3A6D8C;
+}
+#nombre{
+    color: white;
+}
+#icono{
+    color: white;
+}
+#app{
+    color: #001F3F;
+}
+.boton-cv{
+    background-color: #3A6D8C;
+    color: white;
+}
+
+.caja-habilidades{
+    background-color: #CBDCEB;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: black;
+}
+.card .card-title{
+    color: #133E87;
+}
+#contacto{
+    color: #133E87;
+}
+.boton-mail{
+    background-color: #608BC1;
+    color: white;
+}
+.card-text{
+    text-align: center;
+}
+footer p a{
+    text-decoration: none;
+    color:#001F3F;
+}
+#footer{
+    background-color: #3A6D8C;
+}
+footer p{
+    color: white;
+}
